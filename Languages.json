@@ -18,5 +18,7 @@
     "VerifyFnArgs":"com.epicgames.launcher://apps/Fortnite?action=verify&silent=false",
     "VerifyMessage":"We Are Now Redrecting You To Epic Games Verification! If Epic Games Launcher Does Not Open By Itself Then Open It Manually.",
     "RemoveDupedUcasMessage":"Successfully Removed Duped Ucas Files! To Be Able To Use The Swapper Again You Must Restart The Swapper To Back Them Up Again.\nWould You Like To Restart The Swapper Now?",
-    "SelectfolderFail":"The Directory You Have Selected Does Not Contain Ucas Files. Make Sure You Selected The Paks Folder."
+    "SelectfolderFail":"The Directory You Have Selected Does Not Contain Ucas Files. Make Sure You Selected The Paks Folder.",
+    "Dllnotexist":"%Dll% Does Not Exist? Make Sure You Have Extracted The Swapper And The Exe and dlls Are In The Same Folder.",
+    "Dllmodified":"%Dll% Has Been Modified This Can Be Caused By A Virus Protection Or The Dll Was Bytes Were Changed. To Fix This Issue Make Sure You Are Downloading From The Correct Source."
 }
