@@ -79,6 +79,22 @@
         {
            "UcasSearch":"pakchunk10_s3-WindowsClient.sig",
            "UcasReplace":"pakchunk100_s3-WindowsClient.sig"
-        }
+        },
+        {
+         "UcasSearch":"pakchunk10_s17-WindowsClient.ucas",
+         "UcasReplace":"pakchunk100_s17-WindowsClient.ucas"
+      },
+      {
+         "UcasSearch":"pakchunk10_s17-WindowsClient.utoc",
+         "UcasReplace":"pakchunk100_s17-WindowsClient.utoc"
+      },
+      {
+         "UcasSearch":"pakchunk10_s17-WindowsClient.pak",
+         "UcasReplace":"pakchunk100_s17-WindowsClient.pak"
+      },
+      {
+         "UcasSearch":"pakchunk10_s17-WindowsClient.sig",
+         "UcasReplace":"pakchunk100_s17-WindowsClient.sig"
+      }
      ]
 }
